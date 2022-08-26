@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nav-left:hover>.avatar>.avatar-hover {
+    opacity: 1;
+}
+
+.download-cta:hover>img{
+    filter: invert(0%);
+}
+.learnMore-cta >.span{
+   
+    /* padding-left: 10px; */
+    transition: left 4s 2s ease-in;
+    /* position: absolute ; */
+    
+}
+
+.learnMore-cta:hover >span{
+    /* margin-left: 10px; */
+    left:4px
+    /* position: relative; */
+    /* position: absolute; */
+}
+
+
+
