@@ -20,7 +20,7 @@
 
 #### It took around 15 hr to build
 
-- # [Live Link] (https://epaytmui.netlify.app/)
+- # [Live Link](https://epaytmui.netlify.app/)
 
 ![Screenshots](/images/thumbnail.PNG)
 ![Screenshots](/images/thumbnail2.PNG)
